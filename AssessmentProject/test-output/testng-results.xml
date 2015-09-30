@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Demo" duration-ms="48328" started-at="2015-09-30T20:24:39Z" finished-at="2015-09-30T20:25:28Z">
+    <groups>
+    </groups>
+    <test name="DemoTest" duration-ms="48328" started-at="2015-09-30T20:24:39Z" finished-at="2015-09-30T20:25:28Z">
+      <class name="com.walmart.Tests.assessmentTestFile">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.walmart.Tests.assessmentTestFile@725bef66]" name="test" duration-ms="48308" started-at="2015-09-30T13:24:39Z" finished-at="2015-09-30T13:25:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.walmart.Tests.assessmentTestFile -->
+    </test> <!-- DemoTest -->
+  </suite> <!-- Demo -->
+</testng-results>

@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="Demo" verbose="1" >
+  <test name="DemoTest">
+    <classes>
+      <class name="com.walmart.Tests.assessmentTestFile"/>
+    </classes>
+  </test>
+</suite>
