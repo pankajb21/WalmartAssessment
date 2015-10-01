@@ -19,3 +19,5 @@ Things if I had more time:
 I would like to keep the data is excel sheet and build a data driven framework. 
 Needed more time for iOS devices testing. It is working fine for web based. 
 I don’t have much experience on running tests on mobile. We can use Robotium for this purpose.  
+
+Note: To run in chrome, please change permission of chromedriver to 777. Sometime it might fail because of permission issues. 
